@@ -6,7 +6,7 @@
   <link href="https://leviathan520.github.io/atom.xml" rel="self"/>
   
   <link href="https://leviathan520.github.io/"/>
-  <updated>2022-08-23T01:18:29.382Z</updated>
+  <updated>2022-08-24T06:42:36.594Z</updated>
   <id>https://leviathan520.github.io/</id>
   
   <author>
@@ -17,22 +17,24 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
-    <link href="https://leviathan520.github.io/posts/4a17b156.html"/>
-    <id>https://leviathan520.github.io/posts/4a17b156.html</id>
-    <published>2022-08-23T00:45:26.509Z</published>
-    <updated>2022-08-23T01:18:29.382Z</updated>
+    <title>大家好</title>
+    <link href="https://leviathan520.github.io/posts/42adfbca.html"/>
+    <id>https://leviathan520.github.io/posts/42adfbca.html</id>
+    <published>2022-08-24T04:50:48.000Z</published>
+    <updated>2022-08-24T06:42:36.594Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<h2 id="Leviathan，这里是我的个人博客，写文章没什么水平，如果有时间会分享一下自己感兴趣的东西和遇到的问题。"><a href="#Leviathan，这里是我的个人博客，写文章没什么水平，如果有时间会分享一下自己感兴趣的东西和遇到的问题。" class="headerlink" title="Leviathan，这里是我的个人博客，写文章没什么水平，如果有时间会分享一下自己感兴趣的东西和遇到的问题。"></a>Leviathan，这里是我的个人博客，写文章没什么水平，如果有时间会分享一下自己感兴趣的东西和遇到的问题。</h2><h2 id="关于我"><a href="#关于我" class="headerlink" title="关于我"></a>关于我</h2><p>我是 <kbd>ctrl</kbd>+<kbd>C</kbd><kbd>V</kbd>高级CV工程师<br><div class='checkbox checked'><input type="radio" checked="checked"/>            <p>擅长PS、Pr、Ae、Au、Ai、Dw、An、Id等软件的安装与卸载(•ᴗ•)</p>            </div><br><div class='checkbox checked'><input type="radio" checked="checked"/>            <p>熟悉Windows、Linux、Mac、Android、IOS等系统的开关机(^_−)☆</p>            </div><br><div class='checkbox checked'><input type="radio" checked="checked"/>            <p>精通Html、CSS、JavaScript、PHP、Java、Python、C、C++、C#、Go、TypeScript等单词的拼写（￣︶￣）</p>            </div><br>平时喜欢看一些番<psw>喜欢纯爱或者燃一点的</psw>，励志成为一个<del>很厉害</del>的前端人员<br><img src="https://upload-bbs.mihoyo.com/upload/2022/08/23/185631843/b290f703caf77742a5011b5172dcd6f9_871121358737132187.gif?x-oss-process=image//auto-orient,0/interlace,1/format,gif" alt="&#39;罐头&#39;"></p>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+    <summary type="html">&lt;h2 id=&quot;Leviathan，这里是我的个人博客，写文章没什么水平，如果有时间会分享一下自己感兴趣的东西和遇到的问题。&quot;&gt;&lt;a href=&quot;#Leviathan，这里是我的个人博客，写文章没什么水平，如果有时间会分享一下自己感兴趣的东西和遇到的问题。&quot; class=&quot;hea</summary>
       
     
     
     
+    
+    <category term="自我介绍" scheme="https://leviathan520.github.io/tags/%E8%87%AA%E6%88%91%E4%BB%8B%E7%BB%8D/"/>
     
   </entry>
   
